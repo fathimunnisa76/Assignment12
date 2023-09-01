@@ -1,0 +1,10 @@
+1. What is data merge in pandas ?
+A. To join two dataframes by sing specific method/methods by using merge() 
+   function is called  data merge in pandas.
+2. Types of data merges in pandas?
+A. There are four types of merges in pandas, and they are as follows:
+   left, right,inner and outer.
+3. What are the functions available for data merge in pandas?
+A. There are two merge functions to merge two dataframes 
+   1.merge()
+   and 2. join()
